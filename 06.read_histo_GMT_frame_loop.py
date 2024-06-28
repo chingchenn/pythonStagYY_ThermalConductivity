@@ -24,7 +24,9 @@ def convert_frame_number(number):
     return nn
 
 path = '/Users/chingchen/Desktop/data/'
+path = '/lfs/jiching/thermal_conductivity/'
 figpath = '/Users/chingchen/Desktop/figure/StagYY/'
+figpath = '/lfs/jiching/figure/histogram/'
 model = 'kvar_a0310'
 scatter_size=0.5
 bwith = 3
